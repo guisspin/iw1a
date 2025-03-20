@@ -1,0 +1,24 @@
+body, html{
+    background-color: floralwhite;
+}
+div{
+    border: 10px solid thistle
+}
+p{
+    border: 5px solid rgb(255, 0, 255)
+}
+h1{
+    border: 5px solid rgb(207, 105, 38)
+}
+.card{
+    background-color: rgb(255, 255, 255);
+    width:250px;
+    border:5px solid #0000ff; 
+}
+.card-imagem{
+    margin-top:25px;
+    margin-left:30px;
+    margin-right:10px;
+    margin-bottom:100px;
+    border:3px double #e17fff;
+}
