@@ -22,3 +22,12 @@ h1{
     margin-bottom:100px;
     border:3px double #e17fff;
 }
+.card-botao{
+    width: 100%; /* Largura do elemento */
+    height: 50px; /* Altura do elemento */
+    padding: 25px 0; /* Espaçamento interno */
+    background-color: #FF6500; /*Cor de fundo*/
+    color: #FFFFFF; /*cor do texto*/
+    font-family: Arial; /* Tipo de fonte */
+    font-weight: Bold; /* peso na fonte negrito*/
+}
