@@ -8,11 +8,20 @@ body, html{
     align-items: center;
 }
 td{
-    font-size:50px;
+    font-size:30px;
     border:1px solid #000000;
     text-align: center;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 5px;
     padding-right: 5px;
+    border-radius: 5px;
+}
+table{
+    background-color: blueviolet;
+    padding:20px 10px;
+}
+th{
+    font-size: 30px;
+    font-family: sans-serif;
 }
